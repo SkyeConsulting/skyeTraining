@@ -1,0 +1,25 @@
+{
+  "welcomeFile": "index.html",
+  "routes": [
+    {
+      "path": "/sap/opu/odata",
+      "target": {
+        "type": "destination",
+        "name": "EC2",
+        "entryPath": "/sap/opu/odata"
+      },
+      "description": "EC2"
+    }
+  ],
+  "cacheControl": [
+    {
+      "directive": "private",
+      "maxAge": -1,
+      "path": "*html"
+    },
+    {
+      "directive": "public",
+      "maxAge": -1
+    }
+  ]
+}
