@@ -1,6 +1,37 @@
-<mvc:View 
-    controllerName="skye.training.myFirstFiori" 
-    xmlns:mvc="sap.ui.core.mvc" 
+<mvc:View
+    controllerName="skye.training.myFirstFiori"
+    xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
- 
+
+    <Table id="userList" items="{path: '/results'}">
+        <columns>
+            <Column>
+                <Text text="First name"/>
+            </Column>
+            <Column>
+                <Text text="Last name"/>
+            </Column>
+            <Column>
+                <Text text="Email"/>
+            </Column>
+            <Column>
+                <Text text="Telephone"/>
+            </Column>
+        </columns>
+
+        <items>
+            <ColumnListItem>
+                <cells>
+                    <Text text="{Firstname}"/>
+                    <Text text="{Lastname}"/>
+                    <Text text="{Email}"/>
+                    <Text text="{Telephone}"/>
+                </cells>
+            </ColumnListItem>
+        </items>
+
+    </Table>
+
+    <Button text="Go get the data" press="onPress" />
+
 </mvc:View>
