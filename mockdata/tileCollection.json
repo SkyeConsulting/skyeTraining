@@ -1,0 +1,74 @@
+{
+	"results" : [
+		{
+			"id" : "id000001",
+			"desc" : "0-RAD3+Karmøy"
+		},
+		{
+			"id" : "id000002",
+			"desc" : "1-RAD3-KORR+Gulv"
+		},
+		{
+			"id" : "id000003",
+			"desc" : "0-RAD3-KORR-A+Korrosjonslager"
+		},
+		{
+			"id" : "id000004",
+			"desc" : "1-RAD3-KORR-A-1+Korrosjonslager"
+		},
+		{
+			"id" : "id000005",
+			"desc" : "1-RAD3-KORR-A-2+Korrosjonslager"
+		},
+		{
+			"id" : "id000006",
+			"desc" : "1-RAD3-KORR-A-3+Korrosjonslager"
+		},
+		{
+			"id" : "id000007",
+			"desc" : "1-RAD3-KORR-A-4+Korrosjonslager"
+		},
+		{
+			"id" : "id000008",
+			"desc" : "1-RAD3-KORR-A-5+Korrosjonslager"
+		},
+		{
+			"id" : "id000009",
+			"desc" : "1-RAD3-KORR-A-6+Korrosjonslager"
+		},
+		{
+			"id" : "id000010",
+			"desc" : "1-RAD3-KORR-B-1+Korrosjonslager"
+		},
+		{
+			"id" : "id000011",
+			"desc" : "1-RAD3-KORR-B-2+Korrosjonslager"
+		},
+		{
+			"id" : "id000012",
+			"desc" : "1-RAD3-KORR-B-3+Korrosjonslager"
+		},
+		{
+			"id" : "id000013",
+			"desc" : "1-RAD3-KORR-B-4+Korrosjonslager"
+		},
+		{
+			"id" : "id000014",
+			"desc" : "1-RAD3-KORR-B-5+Korrosjonslager"
+		},
+		{
+			"id" : "id000015",
+			"desc" : "1-RAD4+apefjes"
+		},
+		
+		{
+			"id" : "id000015",
+			"desc" : "1-RAD4-lagerA+apefjes"
+		}
+		,
+		{
+			"id" : "id000016",
+			"desc" : "1-RAD3-LAGER2-B-5+Korrosjonslager"
+		}
+	]
+}
